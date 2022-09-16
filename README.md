@@ -6,10 +6,14 @@ Project Dependencies:
 @react-navigation
 
 
+Search For Movies:
 ![image](https://user-images.githubusercontent.com/82721312/190634042-dcf4d2ef-6ad5-45d4-aac6-b74c59208c73.png)
 <br>
+View Movie Details:
 ![image](https://user-images.githubusercontent.com/82721312/190636408-70199597-0502-4fd6-a5f9-1cb570fad991.png)
 <br>
+See your favourites:
 ![image](https://user-images.githubusercontent.com/82721312/190636520-ff6d3185-e93c-42a3-b3be-1a5f54d6b8e3.png)
 <br>
+See popular movies:
 ![image](https://user-images.githubusercontent.com/82721312/190636599-2015b4bd-18d8-4c2b-952f-22300bad064c.png)
