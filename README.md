@@ -2,7 +2,6 @@ Movie-Tracker
 Movie-Tracker application using React-Native to search,view details and favourite movies using TMDB API.
 
 
-<br>
 ![image](https://user-images.githubusercontent.com/82721312/190634042-dcf4d2ef-6ad5-45d4-aac6-b74c59208c73.png)
 <br>
 ![image](https://user-images.githubusercontent.com/82721312/190636408-70199597-0502-4fd6-a5f9-1cb570fad991.png)
