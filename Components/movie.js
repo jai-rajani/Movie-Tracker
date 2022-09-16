@@ -21,6 +21,17 @@ import {
 } from 'react-native';
 
 export default function Movie(props){
+  const movie_text=()=>{
+    try{
+      return(
+        <Text  style={{color:'black',fontSize:18,fontWeight:'bold',paddingTop:5,paddingLeft:5}}>{props.json.original_title}  ({props.json.release_date.substring(0,4)})</Text>
+   
+      )
+    }
+    catch{
+
+    }
+  }
   img_uri='https://image.tmdb.org/t/p/original//'+props.json.poster_path;
   return(
   <View style={styles.movie}>
@@ -41,8 +52,7 @@ export default function Movie(props){
           }}/>
 
     </View>
-    
-    <Text  style={{color:'black',fontSize:18,fontWeight:'bold',paddingTop:5,paddingLeft:5}}>{props.json.original_title}  ({props.json.release_date.substring(0,4)})</Text>
+    {movie_text()}
     </TouchableOpacity>
       
     
