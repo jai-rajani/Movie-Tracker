@@ -7,6 +7,7 @@ Project Dependencies:
 
 
 Search For Movies:
+<br>
 ![image](https://user-images.githubusercontent.com/82721312/190634042-dcf4d2ef-6ad5-45d4-aac6-b74c59208c73.png)
 <br>
 View Movie Details:
